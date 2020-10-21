@@ -1,4 +1,8 @@
 # EstateCraper
+--------------------
+*Head-on to peak into the script*
+![Sneak-Peak](https://github.com/VivanVatsa/EstateCraper/blob/main/Escraper.py)
+-------------------
 A Real-Estate Website Webscrapper. Built using Python &amp; BeautifulSoup.
 --------------------
 # Throw some ideas
